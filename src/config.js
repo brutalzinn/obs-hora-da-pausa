@@ -14,6 +14,14 @@ export const PETS = [
     {
       description: "Rex de boas na lagoa.",
       img_url: "/assets/images/dani_dog_rex.jpg"
+    },
+    {
+      description: "Abre o bocão. Olha o aviãozinhooooo...",
+      img_url: "/assets/images/roberto_dog_marley.jpg"
+    },
+    {
+      description: "Eu vou ficar aqui até meu dono colocar ração.",
+      img_url: "/assets/images/roberto_cat_sushi_notebook.jpg"
     }
 ]
 export const DELAYMS = 10000

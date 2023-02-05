@@ -17,7 +17,7 @@ function HomePage() {
   useEffect(()=>{
     let randomPet = GetRandomPet()
     setInterval(()=> setPet(randomPet), DELAYMS);
-  }, [pet])
+  }, [])
   return (<PetComponent message={message} pet={pet}/>);
 }
 
