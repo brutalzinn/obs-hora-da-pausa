@@ -1,0 +1,1 @@
+# obs-hora-da-pausa
