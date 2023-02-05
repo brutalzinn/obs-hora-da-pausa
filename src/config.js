@@ -17,4 +17,3 @@ export const PETS = [
     }
 ]
 export const DELAYMS = 10000
-export const MESSAGE = "É hora da pausa"
